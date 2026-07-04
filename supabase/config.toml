@@ -1,0 +1,4 @@
+# Supabase config (Edge Functions)
+
+[functions.fecho-lembrete]
+verify_jwt = false
